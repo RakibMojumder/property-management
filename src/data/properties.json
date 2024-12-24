@@ -1,0 +1,57 @@
+[
+  {
+    "propertyName": "Sunny Villa",
+    "category": "Apartment",
+    "image": "https://techzaa.in/lahomes/admin/assets/images/properties/p-2.jpg",
+    "address": "123 Beachside Avenue, Santa Monica, CA",
+    "price": 1200000,
+    "beds": 4,
+    "bathroom": 3,
+    "squareFoot": 2500,
+    "floor": 2
+  },
+  {
+    "propertyName": "Mountain Retreat",
+    "category": "Residences",
+    "image": "https://techzaa.in/lahomes/admin/assets/images/properties/p-2.jpg",
+    "address": "456 Mountain Rd, Aspen, CO",
+    "price": 850000,
+    "beds": 3,
+    "bathroom": 2,
+    "squareFoot": 1800,
+    "floor": 1
+  },
+  {
+    "propertyName": "City Loft",
+    "category": "Bungalow",
+    "image": "https://techzaa.in/lahomes/admin/assets/images/properties/p-2.jpg",
+    "address": "789 Downtown Ave, New York, NY",
+    "price": 1500000,
+    "beds": 2,
+    "bathroom": 1,
+    "squareFoot": 1200,
+    "floor": 3
+  },
+  {
+    "propertyName": "Lakeside Mansion",
+    "category": "Residences",
+    "image": "https://techzaa.in/lahomes/admin/assets/images/properties/p-2.jpg",
+    "address": "321 Lakeshore Dr, Lake Tahoe, NV",
+    "price": 5000000,
+    "beds": 6,
+    "bathroom": 5,
+    "squareFoot": 6000,
+    "floor": 3
+  },
+  {
+    "propertyName": "Urban Condo",
+    "category": "Villas",
+    "image": "https://techzaa.in/lahomes/admin/assets/images/properties/p-2.jpg",
+    "address": "123 City Plaza, Chicago, IL",
+    "price": 450000,
+    "beds": 2,
+    "bathroom": 2,
+    "squareFoot": 1000,
+    "floor": 10
+  }
+]
